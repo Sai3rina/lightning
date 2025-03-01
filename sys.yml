@@ -1,0 +1,466 @@
+- id: 0x0520
+  en: Light
+  sp: Light
+  fr: Light
+  gr: Light
+  it: Light
+- id: 0x32F3
+  en: Light-Fire
+  sp: Light-Fire
+  fr: Light-Fire
+  gr: Light-Feuer
+  it: Light-Fire
+- id: 0x32F5
+  en: Light-Ice
+  sp: Light-Ice
+  fr: Light-Ice
+  gr: Light-Eis
+  it: Light-Ice
+- id: 0x32F7
+  en: Light-Thunder
+  sp: Light-Thunder
+  fr: Light-Thunder
+  gr: Light-Blitz
+  it: Light-Thunder
+- id: 0x32F9
+  en: Light-Cure
+  sp: Light-Cure
+  fr: Light-Cure
+  gr: Light-Vita
+  it: Light-Cure
+- id: 0x3925
+  en: Light Flare
+- id: 0x05CE
+  en: Blazefire Saber
+  sp: Blazefire Saber
+  fr: Blazefire Saber
+  gr: Blazefire Saber
+  it: Blazefire Saber
+- id: 0x228F
+  en: Brightcrest
+  sp: Fulgor impasible
+  fr: Armoiries
+  gr: Lichtwappen
+  it: Emblema di luce
+- id: 0x2290
+  en: A Keyblade with long reach that provides an outsta-
+
+      nding boost in Magic. It also makes it easier to land
+
+      critical hits, and deals higher damage when you do.
+  sp: Llave espada de largo alcance y extraordinario
+
+      poder mágico. Permite golpes letales aún más
+
+      poderosos de lo normal.
+  fr: Keyblade à longue portée qui vous procure un bonus
+
+      de Magie incroyable et inflige des dégâts dévasta-
+
+      teurs si vous assénez un coup critique avec.
+  gr: Ein Schlüsselschwert mit hoher Reichweite und auß-
+
+      ergewöhnlich hohem Magiewert. Es ermöglicht
+
+      häufiger kritische Treffer mit hohem Schaden.
+  it: Keyblade dal raggio d'attacco ampio e dall'inde-
+
+      scrivibile potere magico. Sferra colpi critici.
+- id: 0x2291
+  en: Destiny´s Embrace
+  sp: Abrazo del destino
+  fr: Appel du destin
+  gr: Schicksalswink
+  it: Fatalità
+- id: 0x2292
+  en: A Keyblade that makes it easier to land critical
+
+      hits.
+  sp: La probabilidad de asestar golpes letales con esta
+
+      llave espada es muy alta.
+  fr: Keyblade qui permet d'asséner des coups critiques
+
+      plus facilement.
+  gr: Dieses Schlüsselschwert ermöglicht kritische
+
+      Treffer häufiger.
+- id: 0x2293
+  en: Stormfall
+  sp: Argavieso
+  fr: Tourmente
+  gr: Regensturm
+  it: Diluvio
+- id: 0x2294
+  en: A well-balanced Keyblade that provides an extra
+
+      boost to all your stats.
+  sp: Llave espada con sobresalientes cualidades en
+
+      todos los aspectos.
+  fr: Keyblade bien équilibrée qui augmente grandement
+
+      toutes vos statistiques.
+  gr: Ein sehr ausgeglichenes Schlüsselschwert mit
+
+      allgemein hohen Werten.
+  it: Keyblade ben bilanciato che gode di tutte le
+
+      migliori condizioni.
+- id: 0x2295
+  en: Stroke of Midnight
+  sp: Último tañido
+  fr: Coup de minuit
+  gr: Punkt Mitternacht
+  it: Cristallina
+- id: 0x2296
+  en: A Keyblade that makes it easier to land
+
+      critical hits.
+  sp: Si te gusta asestar golpes letales, 
+
+      sin duda esta es tu llave espada.
+  fr: Keyblade qui permet d'asséner des
+
+      coups critiques plus facilement.
+  gr: Dieses Schlüsselschwert ermöglicht
+
+      kritische Treffer häufiger.
+- id: 0x2297
+  en: Pixie Petal
+  sp: Pétalo de hada
+  fr: Rameau de fée
+  gr: Feenblüte
+  it: Fiordifati
+- id: 0x2298
+  en: A Keyblade that makes up for it´s poor reach with
+
+      an extra boost in Magic. It also makes it easier
+
+      to land critical hits, and deals highter damage
+
+      when you do.
+  sp: sta llave espada suple su corto alcance con
+
+      magníficas características mágicas. Asesta
+
+      golpes letales aún más poderosos.
+  fr: Keyblade qui compense sa faible portée en vous
+
+      procurant un bonus de Magie important et permet
+
+      d'asséner des coups critiques dévastateurs plus
+
+      facilement.
+  gr: Ein Schlüsselschwert mit geringer Reichweite, aber
+
+      hohem Magiewert. Es ermöglicht häufiger kritische
+
+      Treffer mit hohem Schaden.
+  it: Keyblade dal potere magico elevato e dal raggio
+
+      d'attacco limitato. Sferra spesso attacchi
+
+      critici che infliggono ingenti danni.
+- id: 0x2299
+  en: Fairy Stars
+  sp: Lucero feérico
+  fr: Astres féeriques
+  gr: Feengestirn
+  it: Astrofatato
+- id: 0x229A
+  en: A Keyblade that provides a balanced boost
+
+      in Strengh and Magic.
+  sp: Llave espada que proporciona un buen
+
+      equilibro entre fuerza y magia.
+  fr: Keyblade qui vous procure un bonus
+
+      équilibré de Force et de Magie.
+  gr: Ein Schlüsselschwert mit ausgeglichenen
+
+      Attacke- und Magiewerten.
+  it: Keyblade dal potere magico e di attacco
+
+      bilanciati.
+- id: 0x229B
+  en: Hyperdrive
+  sp: Hiperpropulsor
+  fr: Vol en hyperespace
+  gr: Hyperantrieb
+  it: Iperenergica
+- id: 0x229C
+  en: A Keyblade with above-average reach that
+
+      provides a balanced boost in Strengh and
+   
+      Magic.
+  sp: Llave espada de gran alcance y buen equilibro
+
+      entre fuerza y magia.
+  fr: Keyblade à moyenne portée qui vous procure un
+
+      bonus équilibré de Force et de Magie.
+  gr: Ein Schlüsselschwert mit relativ hoher
+
+      Reichweite und ausgeglichenen Attacke-
+    
+      und Magiewerten.
+  it: Keyblade dal potere magico e di attacco
+
+      molto bilanciati. Il raggio d'attacco é
+   
+      ampio.
+- id: 0x229D
+  en: Victory Line
+  sp: Línea de meta
+  fr: Ligne d'arrivée
+  gr: Freudenjubel
+  it: Trionfante
+- id: 0x229E
+  en: A Keyblade with above-average reach that makes it
+
+      easier to land critical hits.
+  sp: Su largo alcance aumenta la posibilidad de asestar
+
+      un mayor número de golpes letales.
+  fr: Keyblade à moyenne portée qui permet d'asséner des
+
+      coups critiques plus facilement.
+  gr: Ein Schlüsselschwert mit relativ hoher Reichweite,
+
+      das kritische Treffer häufiger ermöglicht.
+  it: Keyblade che sferra spesso attacchi critici e
+
+      dall'ampio raggio d'attacco.
+- id: 0x229F
+  en: Master´s Defender
+  sp: Salva del Maestro
+  fr: Garde du Maître
+  gr: Meisterhüter
+  it: Tutore del Maestro
+- id: 0x22A0
+  en: The Keyblade belonging to Master Eraqus.
+
+      It boosts all your stats.
+  sp: Llave espada del maestro Eraqus. Sus cualidades
+
+      destacan en todos los aspectos del combate.
+  fr: Keyblade de Maître Eraqus.
+
+      Elle améliore toutes vos statitiques.
+  gr: Meister Eraqus' Schlüsselschwert.
+
+      Es besitzt allgemein hohe Werte.
+  it: Un Keyblade di proprietà del Maestro Eraqus.
+
+      Ha statistiche incredibilmente alte.
+- id: 0x537F
+  en: Master´s Defender+
+  sp: Salva del Maestro+
+  fr: Garde du Maître+
+  gr: Meisterhüter+
+  it: Tutore del Maestro+
+- id: 0x5380
+  en: The Keyblade belonging to Master Eraqus.
+
+      It boosts all your stats.
+  sp: Llave espada del maestro Eraqus. Sus cualidades
+
+      destacan en todos los aspectos del combate.
+  fr: Keyblade de Maître Eraqus.
+
+      Elle améliore toutes vos statitiques.
+  gr: Meister Eraqus' Schlüsselschwert.
+
+      Es besitzt allgemein hohe Werte.
+  it: Un Keyblade di proprietà del Maestro Eraqus.
+
+      Ha statistiche incredibilmente alte.
+- id: 0x3DFE
+  en: Ultima Weapon
+  sp: Arme Artema
+  fr: Arme Ultima
+  gr: Ultima-Schwert
+  it: Ultima Weapon
+- id: 0x3DFF
+  en: The most powerful of Keyblades.
+  sp: La llave más poderosa de todas.
+  fr: Keyblade qui améliore toutes vos statistques
+      
+      et permet d'asséner des coups critiques
+      
+      dévastateurs plus facilement.
+  gr: Vereint alle denkbaren Kräfte.
+  it: Permette di equipaggiarti con un Keyblade.
+- id: 0x3E54
+  en: X-Blade
+  sp: X-Blade
+  fr: X-Blade
+  gr: X-Blade
+  it: X-Blade
+- id: 0x3E55
+  en: The most powerful of Keyblades.
+  sp: La llave más poderosa de todas.
+  fr: Keyblade qui améliore toutes vos statistques
+      
+      et permet d'asséner des coups critiques
+      
+      dévastateurs plus facilement.
+  gr: Vereint alle denkbaren Kräfte.
+  it: Permette di equipaggiarti con un Keyblade.
+- id: 0x4E39
+  en: Aqua-Blade
+  sp: Aqua-Blade
+  fr: Aqua-Blade
+  gr: Aquaklinge
+  it: Aqua-Blade
+- id: 0x4E3A
+  en: An Aqua that swings an Aqua?
+  sp: An Aqua that swings an Aqua?
+  fr: An Aqua that swings an Aqua?
+  gr: An Aqua that swings an Aqua?
+  it: An Aqua that swings an Aqua?
+- id: 0x4E3B
+  en: Aqua-Blade+
+  sp: Aqua-Blade+
+  fr: Aqua-Blade+
+  gr: Aquaklinge+
+  it: Aqua-Blade+
+- id: 0x4E3C
+  en: An Aqua that swings an Aqua?
+  sp: An Aqua that swings an Aqua?
+  fr: An Aqua that swings an Aqua?
+  gr: An Aqua that swings an Aqua?
+  it: An Aqua that swings an Aqua?
+- id: 0x4E3D
+  en: Royal Radiance
+  sp: Corona eterna
+  fr: Couronne absolue
+  gr: Königsglanz
+  it: Splendore reale
+- id: 0x4E3E
+  en: The most powerful of Keyblades. When equipped,
+
+      it increases the speed at which the command
+
+      gauge fills.
+  sp: La llave espada más poderosa de todas Hace que el
+
+      indicador de comandos se llene más rápido.
+  fr: Keyblade la plus puissante. Grâce à elle, la jauge
+
+      de commandes se remplit plus vite.
+  gr: Das stärkste aller Schlüsselschwerter.
+
+      Bei Ausrüsten füllt sich die Kommandoleiste
+
+      schneller.
+  it: Il Keyblade più potente. Aumenta la velocità alla
+
+      quale si riempe la barra dei comandi.
+- id: 0x4E3F
+  en: Royal Radiance+
+  sp: Corona eterna+
+  fr: Couronne absolue+
+  gr: Königsglanz+
+  it: Splendore reale+
+- id: 0x4E40
+  en: The most powerful of Keyblades. When equipped,
+
+      it increases the speed at which the command
+
+      gauge fills.
+  sp: La llave espada más poderosa de todas Hace que el
+
+      indicador de comandos se llene más rápido.
+  fr: Keyblade la plus puissante. Grâce à elle, la jauge
+
+      de commandes se remplit plus vite.
+  gr: Das stärkste aller Schlüsselschwerter.
+
+      Bei Ausrüsten füllt sich die Kommandoleiste
+
+      schneller.
+  it: Il Keyblade più potente. Aumenta la velocità alla
+
+      quale si riempe la barra dei comandi.
+- id: 0x4E41
+  en: Royal Radiance++
+  sp: Corona eterna++
+  fr: Couronne absolue++
+  gr: Königsglanz++
+  it: Splendore reale++
+- id: 0x4E42
+  en: The most powerful of Keyblades. When equipped,
+
+      it increases the speed at which the command
+
+      gauge fills.
+  sp: La llave espada más poderosa de todas Hace que el
+
+      indicador de comandos se llene más rápido.
+  fr: Keyblade la plus puissante. Grâce à elle, la jauge
+
+      de commandes se remplit plus vite.
+  gr: Das stärkste aller Schlüsselschwerter.
+
+      Bei Ausrüsten füllt sich die Kommandoleiste
+
+      schneller.
+  it: Il Keyblade più potente. Aumenta la velocità alla
+
+      quale si riempe la barra dei comandi.
+- id: 0x4E43
+  en: Royal Radiance+++
+  sp: Corona eterna+++
+  fr: Couronne absolue+++
+  gr: Königsglanz+++
+  it: Splendore reale+++
+- id: 0x4E44
+  en: The most powerful of Keyblades. When equipped,
+
+      it increases the speed at which the command
+
+      gauge fills.
+  sp: La llave espada más poderosa de todas Hace que el
+
+      indicador de comandos se llene más rápido.
+  fr: Keyblade la plus puissante. Grâce à elle, la jauge
+
+      de commandes se remplit plus vite.
+  gr: Das stärkste aller Schlüsselschwerter.
+
+      Bei Ausrüsten füllt sich die Kommandoleiste
+
+      schneller.
+  it: Il Keyblade più potente. Aumenta la velocità alla
+
+      quale si riempe la barra dei comandi.
+- id: 0x4E45
+  en: Royal Radiance++++
+  sp: Corona eterna++++
+  fr: Couronne absolue++++
+  gr: Königsglanz++++
+  it: Splendore reale++++
+- id: 0x4E46
+  en: The most powerful of Keyblades. When equipped,
+
+      it increases the speed at which the command
+
+      gauge fills.
+  sp: La llave espada más poderosa de todas Hace que el
+
+      indicador de comandos se llene más rápido.
+  fr: Keyblade la plus puissante. Grâce à elle, la jauge
+
+      de commandes se remplit plus vite.
+  gr: Das stärkste aller Schlüsselschwerter.
+
+      Bei Ausrüsten füllt sich die Kommandoleiste
+
+      schneller.
+  it: Il Keyblade più potente. Aumenta la velocità alla
+
+      quale si riempe la barra dei comandi.
